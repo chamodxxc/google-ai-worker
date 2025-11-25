@@ -1,4 +1,4 @@
-name = "google-ai-worker"
+name = "google-ai-search"
 main = "worker.js"
 compatibility_date = "2025-11-25"
 type = "javascript"
