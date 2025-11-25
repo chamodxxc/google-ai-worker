@@ -1,0 +1,10 @@
+{
+  "name": "google-ai-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for Google AI scraping (creator: Chamod Nimsara)",
+  "scripts": {
+    "publish": "wrangler publish"
+  },
+  "author": "Chamod Nimsara",
+  "license": "MIT"
+}
